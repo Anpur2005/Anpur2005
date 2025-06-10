@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Siddharth Katrapalli</h1>
+<h1 align="center">Hi 👋, I'm Anpur Phani Charan</h1>
 <h3 align="center">A passionate Computer Science Student from KMIT</h3>
 
 
-- 🔭 I’m currently working on [Finishing School](https://github.com/Sohith-reddy/Finishing-School.git)
-
-- 👯 I’m looking to collaborate on [Finishing School](https://github.com/Sohith-reddy/Finishing-School.git)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/siddharth_kat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddharth_kat" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Anpur_Phani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Anpur_Phani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
